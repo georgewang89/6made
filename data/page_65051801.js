@@ -1,0 +1,1 @@
+;(function(global) { global.DATA = {"page":{"canvas":{"props":{"storedElements":[]},"type":"Canvas","v":"2.0"}},"last_update":"1482345372"}; })(window);
